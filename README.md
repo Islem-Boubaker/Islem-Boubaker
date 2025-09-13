@@ -1,6 +1,6 @@
 <!-- Title / Intro -->
 <h1 align="center">Hi 👋, I'm [Your Name] 👋</h1>
-<h3 align="center">Full-Stack Developer | MERN Stack</h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Developer+;MERN+Stack" alt="Typing SVG" /></a></h3>
 
 ---
 
@@ -42,12 +42,13 @@ I enjoy collaborating in teams as well as working independently to solve challen
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
 ## 📫 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/notifications/?filter=all)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-GITHUB)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boubaker-islem-b13a0430b/)  
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Islem-Boubaker)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:islemboubaker93@gmail.com)
 
 ---
 
 ⭐️ **Check out my repositories and feel free to connect with me!**
+

@@ -1,5 +1,5 @@
 <!-- Title / Intro -->
-<h1 align="center">Hi 👋, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi 👋, I'm Islem Boubaker 👋</h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Developer+;MERN+Stack" alt="Typing SVG" /></a></h3>
 
 ---
@@ -51,4 +51,5 @@ I enjoy collaborating in teams as well as working independently to solve challen
 ---
 
 ⭐️ **Check out my repositories and feel free to connect with me!**
+
 

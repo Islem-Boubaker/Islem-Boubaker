@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ About me  
 
-I'm a third-year Computer Science student at ISIMA, passionate about building modern and scalable web applications.  
+I'm a final-year Computer Science student at ISIMA, passionate about building modern and scalable web applications.  
 I specialize in full-stack development using the **MERN stack (MongoDB, Express.js, React, Node.js)**.  
 I’m a fast learner who loves exploring new technologies and improving development workflows.  
 I enjoy collaborating in teams as well as working independently to solve challenges and deliver quality code.  
@@ -68,3 +68,4 @@ I enjoy collaborating in teams as well as working independently to solve challen
 </div>
 
 ⭐️ **Check out my repositories and feel free to connect with me!**
+
